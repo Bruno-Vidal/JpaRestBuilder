@@ -1,0 +1,14 @@
+workspace/
+target/
+.project
+.idea/
+.metadata/
+.settings/
+.classpath
+*.jar
+*.war
+bin/
+*.class
+config/scriptsShell/sftpUpload.sh
+*.iml
+
